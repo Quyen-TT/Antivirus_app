@@ -132,7 +132,7 @@ Cấu trúc thư mục:
 
     VirusScanner/
     │
-    ├── main.py                  
+    ├── anti_virus.py                  
     │
     ├── yara.exe                 
     ├── winrar.exe               
